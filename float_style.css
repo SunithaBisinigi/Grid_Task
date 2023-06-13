@@ -1,0 +1,47 @@
+* {
+    box-sizing : border-box;
+}
+.row {
+    border : solid 1px red;
+    height :150px;
+    font-size : 0px;
+}
+.col {
+    border : solid 2px black;
+    width : 33.33%;
+    height :100%;
+    float : left;
+}
+.col1 {
+    border : solid 2px black;
+    width : 50%;
+    height : 100%;
+    float : left;
+}
+.col3 {
+    border : solid 2px green;
+    width : 30%;
+    height : 100%;
+    float : left;
+}
+.col4 {
+    border : solid 2px green;
+    width : 15% ;
+    height :100%;
+    float : left;
+}
+.col5 {
+    border : solid 2px green;
+    width : 40%;
+    height : 100%;
+    float :left;
+}
+.row1 {
+    border : solid 2px yellow;
+    height : 50%;
+}
+.row3 {
+    border : solid 2px yellow;
+    height : 33.33%;
+}
+

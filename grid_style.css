@@ -1,0 +1,49 @@
+*{
+    box-sizing : border-box;
+    border : solid 2px green;
+}
+.row {
+    height : 150px;
+    font-size : 0px;
+}
+.r1c1 {
+    height : 100%;
+    display : inline-block;
+}
+.r1c1 {
+    width : 33.33%;
+}
+.r2c1 {
+    width :50%;
+    height :100%;
+    display : inline-block;
+}
+.r2c1_r1 {
+    height : 50%;
+}
+.r3c1 {
+    width :30%;
+    height :100%;
+    display : inline-block;
+}
+.r3c2 {
+    width : 15%;
+    height : 100%;
+    display :inline-block;
+}
+.r3c3 {
+    width :40%;
+    height :100%;
+    display : inline-block;
+}
+.r3r1 {
+    height :50%;
+}
+.r3c3r1 {
+    height :33.33%;
+}
+.s45c1 {
+    width :50%;
+    height :100%;
+    display : inline-block;
+}
